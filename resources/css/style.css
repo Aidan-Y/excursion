@@ -6,18 +6,18 @@ body {
 
 /* HEADINGS */
 
-.header--main {
+h1 {
     font-weight: normal;
     font-size: 50px;
     color: white; 
 }
-.header--secondary {
+h2 {
     font-weight: 300;
     font-size: 42px; 
     color:white; 
 }
 
-.header--subheader {
+p {
     font-size: 21px; 
     color: grey; 
 }
@@ -27,5 +27,9 @@ body {
 .link--cta {
     font-size: 16px; 
     color: aquamarine; 
+}
+
+.footer {
+    text-align: right;
 }
 
